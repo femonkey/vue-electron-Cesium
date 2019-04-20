@@ -1,4 +1,4 @@
-# sceanaly
+# electroncesium
 
 > An electron-vue project
 
